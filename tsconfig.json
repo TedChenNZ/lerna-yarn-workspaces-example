@@ -8,7 +8,9 @@
     "baseUrl": "./packages",
     "composite": true,
     "paths": {
-      "@quramy/*": ["./*/src"]
+      "@tedchennz/*": [
+        "./*/src"
+      ]
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@tedchennz/x-app",
+  "name": "@tedchennz/x-cli",
   "version": "1.0.0",
   "description": "",
   "main": "lib/main.js",
